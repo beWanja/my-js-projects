@@ -1,10 +1,10 @@
 # ✊✋✌️ Rock Paper Scissors – Web Game
 
-A quick and fun web-based **Rock Paper Scissors** game! Play against the computer and see how many times you can win. 
+A web-based **Rock Paper Scissors** game! Play against the computer and see how many times you can win. 
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 Click one of the buttons:
 
@@ -37,17 +37,17 @@ The computer randomly picks a move. The game instantly tells you who won and upd
 
 1. Clone or download this project.  
 2. Open `index.html` in your browser.  
-3. Start playing and try to beat the machine! 🧠🤖  
+3. Start playing and try to beat the machine!  
 
 ---
 
 ## 
 
-Want to make it cooler?
+Want to make it cooler? Here are some suggestions:
 
-- Add sounds or animations 🎵 
-- Show win percentages 📊  
-- Add a reset score button 🔁  
+- Add sounds or animations 
+- Show win percentages 
+- Add a reset score button   
 
 ---
 
