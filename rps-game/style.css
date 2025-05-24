@@ -1,0 +1,40 @@
+
+/*some fun fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Luckiest+Guy&family=Fredoka+One&display=swap');
+
+body {
+  font-family: 'Press Start 2P', 'Luckiest Guy', 'Fredoka One', Georgia, serif, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  color: rgb(7, 53, 46);
+  font-size: 12px;
+  background: rgb(218, 255, 230);
+}
+
+.choices button {
+  margin: 10px;
+  padding: 15px 30px;
+  font-family: 'Fredoka One', sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  background-color: #91e495;
+  color: rgb(7, 53, 46);
+  transition: background 0.3s ease;
+}
+
+.choices button:hover {
+  background-color: #afdfb0;
+}
+
+#result {
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+#counter {
+  margin-top: 20px;
+  font-size: 12px;
+}
+
