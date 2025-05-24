@@ -51,7 +51,6 @@ Want to make it cooler?
 
 ---
 
-## UI
+## Screenshot
 
-```md
 ![Rock Paper Scissors Game Screenshot](screenshot.png)
